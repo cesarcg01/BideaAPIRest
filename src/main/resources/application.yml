@@ -1,0 +1,8 @@
+server:
+    port: 8099 
+spring:
+    datasource:
+        password: postgres
+        url: jdbc:postgresql://localhost:5432/bdbideafactory
+        username: postgres
+
